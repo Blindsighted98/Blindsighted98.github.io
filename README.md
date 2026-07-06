@@ -1,4 +1,3 @@
-# Blindsighted98.github.io
 # Mahdi SalarSadeghi
 
 M.Sc. Student in Cognitive Psychology
